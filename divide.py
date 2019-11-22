@@ -1,5 +1,4 @@
-def divide():
-	a=input("Enter first value")
-	b=input("Enter second value")
-	c= a / b
-	return c
+def div():
+	x=input("Enter 1st value:")
+	y=input("Enter 2nd value:")
+	return float(x)/float(y)
